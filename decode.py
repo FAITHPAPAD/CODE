@@ -23,7 +23,7 @@ def decode_base64(encoded_data: str):
 def decode(update: Update, context: CallbackContext):
     # Check if the user is admin
     if update.message.from_user.id == ADMIN_ID:
-        if len(context.args) YOUR_BOT_TOKEN== 1:
+        if len(context.args) 7533748861:AAF_m0GOXfuchvHNO002gahj4f_TWQjhxbM== 1:
             bot_username = context.args[0]
 
             # Example of base64 encoded Python code (this should be replaced with actual logic)
